@@ -1,0 +1,206 @@
+
+
+.container{
+    margin: 0px;
+    background-color: whitesmoke;
+    border-bottom: 1px solid darkblue;
+}
+
+.parent{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    border: 1px solid red;
+    }
+
+.navbarright ul {
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+
+
+
+
+.navbarright ul li {
+    list-style: none;
+    margin: 0 60px;
+    font-size: 24px;
+    color: darkblue;
+   
+    
+
+}
+
+.navbarright ul li a {
+    text-decoration: none;
+}
+
+.navbarright ul li :last-child {
+    margin-right: 0;
+}
+
+.navbarleft a{
+    list-style:none;
+    
+    font-size: 24px;
+    color: darkblue;
+    text-decoration: none;
+    
+}
+
+
+.container1{
+   border: 1px solid lightgray;
+   border-radius: 6px;
+   padding: 40px 20px;
+   width: 50%;
+   margin: 4% auto;
+   text-decoration: none;
+   margin-top: 10;
+}
+.container1 a{
+    text-decoration: none;
+    margin-top: 0;
+}
+
+.parent1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+} 
+.contactleft{
+    
+    padding: 5px 0;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: forestgreen;
+}
+
+.submit{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+.submit button{
+    background-color: forestgreen;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.container3{
+    background-color: rgba(255, 255, 255, 0.499);
+    margin: 0;
+    
+}
+
+.parent3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    justify-items: center;
+    padding: 20px 40px;
+  
+
+    
+}
+
+.navleft3{
+    margin-left: 300px;
+    align-items: center;
+    margin-top: 80px;
+    font-family: 'Ruda', sans-serif;
+    
+}
+
+#face{
+    font-family: 'Ruda', sans-serif;
+    color: blue;
+    bolder
+}
+
+.page{
+    margin-left: 900px;
+}
+
+.navright3{
+    border: 2px solid lightgray;
+    border-radius: 6px;
+    width: 25%;
+    height: 205%;
+    margin: auto;
+    padding: 20px 40px;
+    margin-top: 70px;
+    box-sizing: border-box;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-decoration: white;
+
+}
+
+
+  
+
+
+.buttons button{
+    margin: 8px 0;
+    width: 100%;
+    background-color: blue;
+    border-radius: 6px;
+    padding: 12px 20px;
+    font-size: 20px;
+    color: white;
+    
+    
+    
+    
+}
+
+.new button{
+    width: 70%;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    align-content: center;
+    justify-content: center;
+    margin-left: 50px;
+    background-color: rgb(52, 197, 52);
+    border: 1px solid green;
+    color: white;
+}
+
+.forget{
+    border: 2px solid whitesmoke;
+    border-top: 30px;
+    padding-left: 70px;
+    color: blue;
+
+}
+    
+    
+
+
+
+
+    
+
+
+

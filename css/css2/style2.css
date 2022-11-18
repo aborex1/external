@@ -1,0 +1,43 @@
+
+.grandparent{
+    width: 100%;
+    height: 80vh;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+
+.parent{
+    width: 23%;
+    height: 40%;
+    margin-left: 220px;
+}
+
+.form{
+    width: 30%;
+    height: 70%;
+    margin-right: 240px;
+     border: 2px solid rgba(rgb(64, 0, 255), green, blue, alpha);
+     border-radius: 5px;
+     padding-left: 10px;
+    box-shadow: -0px 0px 10px gray;
+    
+     
+
+}
+#fb{
+    font-family: 'Ruda', sans-serif;
+    color: blue;
+    display: block;
+    line-height: 0%;
+}
+#connect{
+    font-family: 'Ruda', sans-serif;
+    color: black ;
+    
+}
+
+.btc{
+    width: 98%;
+    height: 50px;
+}
